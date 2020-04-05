@@ -15,9 +15,6 @@ Demo banner images* courtesy of Unsplash, a radtastic collection of CC0 (public 
 
 Stack:
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
 	Icons:
 		Font Awesome (fontawesome.io)
 	
